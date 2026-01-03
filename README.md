@@ -155,7 +155,6 @@ images/entropy_comparison.png
 │   ├── entropy_comparison.png
 │
 ├── generated_samples.txt
-├── shannon_analysis_report.json
 ├── model_comparison.csv
 ├── style_examples.json
 
