@@ -124,8 +124,6 @@ images/entropy_comparison.png
 
 ### Directory Structure
 ```text
-
-text_stats/
 ├── analyze.py
 ├── build_reports.py
 ├── generator.py
