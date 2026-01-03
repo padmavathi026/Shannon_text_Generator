@@ -1,0 +1,8 @@
+# requirements.txt
+regex>=2024.4.16
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+requests>=2.31
+nltk>=3.9
+

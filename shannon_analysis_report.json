@@ -1,0 +1,124 @@
+{
+  "authors": {
+    "austen": {
+      "word": {
+        "unigram": {
+          "vocab_size": 6957,
+          "entropy_bits": 9.155283,
+          "perplexity": 570.18381
+        },
+        "bigram": {
+          "ngram_count": 55620,
+          "joint_entropy_bits": 14.537812,
+          "perplexity_joint": 23785.791941
+        },
+        "trigram": {
+          "ngram_count": 103599,
+          "joint_entropy_bits": 16.467033,
+          "perplexity_joint": 90588.026126
+        },
+        "sentence_stats": {
+          "mean": 17.143855724870683,
+          "std": 14.581169679459226
+        }
+      },
+      "char": {
+        "unigram": {
+          "vocab_size": 44,
+          "entropy_bits": 4.181348,
+          "perplexity": 18.14309
+        },
+        "bigram": {
+          "ngram_count": 710,
+          "joint_entropy_bits": 7.536712,
+          "perplexity_joint": 185.684874
+        },
+        "trigram": {
+          "ngram_count": 5111,
+          "joint_entropy_bits": 10.135559,
+          "perplexity_joint": 1124.882789
+        }
+      }
+    },
+    "twain": {
+      "word": {
+        "unigram": {
+          "vocab_size": 8396,
+          "entropy_bits": 9.531812,
+          "perplexity": 740.220741
+        },
+        "bigram": {
+          "ngram_count": 41152,
+          "joint_entropy_bits": 14.494095,
+          "perplexity_joint": 23075.836455
+        },
+        "trigram": {
+          "ngram_count": 63754,
+          "joint_entropy_bits": 15.868904,
+          "perplexity_joint": 59843.36886
+        },
+        "sentence_stats": {
+          "mean": 14.094191206131505,
+          "std": 13.551159637928459
+        }
+      },
+      "char": {
+        "unigram": {
+          "vocab_size": 36,
+          "entropy_bits": 4.206211,
+          "perplexity": 18.458471
+        },
+        "bigram": {
+          "ngram_count": 722,
+          "joint_entropy_bits": 7.575174,
+          "perplexity_joint": 190.701694
+        },
+        "trigram": {
+          "ngram_count": 6007,
+          "joint_entropy_bits": 10.229684,
+          "perplexity_joint": 1200.719807
+        }
+      }
+    },
+    "doyle": {
+      "word": {
+        "unigram": {
+          "vocab_size": 8823,
+          "entropy_bits": 9.29435,
+          "perplexity": 627.882266
+        },
+        "bigram": {
+          "ngram_count": 51680,
+          "joint_entropy_bits": 14.451194,
+          "perplexity_joint": 22399.728191
+        },
+        "trigram": {
+          "ngram_count": 89382,
+          "joint_entropy_bits": 16.263856,
+          "perplexity_joint": 78687.992998
+        },
+        "sentence_stats": {
+          "mean": 14.404699738903394,
+          "std": 11.785548614521195
+        }
+      },
+      "char": {
+        "unigram": {
+          "vocab_size": 50,
+          "entropy_bits": 4.164503,
+          "perplexity": 17.932483
+        },
+        "bigram": {
+          "ngram_count": 849,
+          "joint_entropy_bits": 7.514533,
+          "perplexity_joint": 182.852027
+        },
+        "trigram": {
+          "ngram_count": 6249,
+          "joint_entropy_bits": 10.176406,
+          "perplexity_joint": 1157.186715
+        }
+      }
+    }
+  }
+}
